@@ -17,7 +17,7 @@
     "node-sass": "^4.14.1",
     "register-service-worker": "^1.7.1",
     "session-file-store": "^1.4.0",
-    "swiper": "^5.3.8",
+    "swiper": "^6.5.1",
     "vue": "^2.6.11",
     "vue-awesome-swiper": "^4.1.1",
     "vue-quill-editor": "^3.0.6",
